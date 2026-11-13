@@ -1,0 +1,10 @@
+# Ignore markdown files per user instruction
+*.md
+*.MD
+
+# Ignore large raw video frame extraction (used frames are in frames_optimized/)
+gemini_generated_video_2351dd9e_mp4_enhancer__frames/
+
+# OS metadata
+.DS_Store
+Thumbs.db
